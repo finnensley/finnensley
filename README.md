@@ -4,7 +4,7 @@ About me:
 - I live in Denver, CO
 - Owner/Founder of soloSoftwareDev LLC
 - Life-long learner
-- Geeking out over TryHackMe PT1 course, I have secretly always wanted to be a skilled ethical hacker. 
+- Geeking out over TryHackMe PT1 course, I have secretly always wanted to be a skilled hacker. 
 
 Technologies and platforms I use on the regular:
 - HTML, CSS, JS, React, Node.js, Express.js
