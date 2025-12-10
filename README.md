@@ -1,4 +1,4 @@
-## Hi Friends, I am Finnigan Ensley.👋 Thanks for checking my github out!
+## Hi Friends, I am Finnigan Ensley.👋 Thanks for checking out my github!
 About me: 
 - I am a FullStack Software Developer currently focused on creating a shipping/inventory management SaaS for startups.
 - I live in Denver, CO
