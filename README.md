@@ -1,7 +1,7 @@
 ## Hi Friends, I am Finnigan Ensley.👋 Thanks for checking out my github!
 About me: 
 - I am a FullStack Software Developer currently focused on creating a shipping/inventory management SaaS for startups.
-- I live in Denver, CO
+- I live in Longmont, CO
 - Owner/Founder of soloSoftwareDev LLC
 - Life-long learner
 - Geeking out over TryHackMe PT1 course, I have secretly always wanted to be a skilled hacker. 
@@ -33,17 +33,3 @@ How to reach me:
 - finn_ensley@solosoftwaredev.com
 - linkedin.com/in/finnigan-ensley-242729334
 
-<!--
-**finnensley/finnensley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
